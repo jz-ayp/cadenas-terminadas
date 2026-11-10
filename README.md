@@ -18,7 +18,7 @@ Escribe una función `suma_maxima` que regrese la lista con la que se obtiene la
 
 Incluye un bloque `if __name__ == "__main__":` para escribir tus pruebas.
 
-***Nota***: ¿Cómo es que no se podría obtener una suma máxima? Por ejemplo, en la lista `[-1,-1,-1,-1]` no hay suma máxima. Verifícalo.
+***Nota***: ¿Cómo es que no se podría obtener una suma máxima? Por ejemplo, en la lista `[-1, -1, -1, -1]` no hay suma máxima. Verifícalo.
 
 
 ### Ejercicio 2. Cadenas terminadas. Uso indexado de elementos.
@@ -63,7 +63,7 @@ Completa estos y el resto de los ejercicios y compila, para cada uno, el enuncia
 | Entradas               | Salidas  |
 |:-----------------------|:---------|
 | `[1, -2, 3, 4, -9, 6]` | `[3, 4]` |
-| `[-1,-1,-1,-1]`        | `[]`     |
+| `[-1, -1, -1, -1]`     | `[]`     |
 
 ### `str_print`
 | Entradas            | Salidas |
@@ -80,9 +80,9 @@ Completa estos y el resto de los ejercicios y compila, para cada uno, el enuncia
 
 ### `str_concat`
 
-| Entradas                            | Salidas            |
-|:------------------------------------|:-------------------|
-| `"Diseño$"`, `"Algoritmo$s"`, `"$"` |`"DiseñoAlgoritmo"` |
+| Entradas                            | Salidas             |
+|:------------------------------------|:--------------------|
+| `"Diseño$"`, `"Algoritmo$s"`, `"$"` |`"DiseñoAlgoritmo$"` |
 
 ### `str_has_prefix`
 

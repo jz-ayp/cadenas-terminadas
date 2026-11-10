@@ -63,7 +63,7 @@ Completa estos y el resto de los ejercicios y compila, para cada uno, el enuncia
 | Entradas               | Salidas  |
 |:-----------------------|:---------|
 | `[1, -2, 3, 4, -9, 6]` | `[3, 4]` |
-| `[-1,-1,-1,-1]`        | `[]`     |
+| `[-1, -1, -1, -1]`     | `[]`     |
 
 ### `str_print`
 | Entradas            | Salidas |
